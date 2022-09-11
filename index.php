@@ -12,7 +12,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="img/logo.png">
   <!-- Link CSS File  -->
   <style>
-    <?php include 'CSS/style.css'; ?>
+    <?php include 'css/style.css'; ?>
   </style>
 
   <!-- Link Font  -->
